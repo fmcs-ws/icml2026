@@ -17,7 +17,7 @@
 
 .card {
   flex: 1 1 250px;
-  max-width: 300px;
+  max-width: 500px;
   background: #fff;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -32,8 +32,8 @@
 }
 
 .card-photo {
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
