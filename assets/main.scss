@@ -16,7 +16,7 @@
 }
 
 .card {
-  flex: 1 1 250px;
+  flex: 1 1 45%;
   max-width: 500px;
   background: #fff;
   border-radius: 12px;
@@ -69,7 +69,7 @@
   color: #d6336c;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .card {
     flex: 1 1 100%;
   }
