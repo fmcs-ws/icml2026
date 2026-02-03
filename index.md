@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![Workshop banner](/assets/images/banner.jpg)
+
 # Foundation Models for Computational Science
 
 **ICML 2026 · Seoul, Korea**
