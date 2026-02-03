@@ -7,7 +7,7 @@ title: Organizers
 
 **FMCS @ ICML 2026 · Seoul, Korea**
 
----
+<br/>
 
 ## Chairs
 <div class="cards-container">
@@ -114,15 +114,36 @@ title: Organizers
   
 </div>
 
-
----
+</br>
 
 ## Steering Committee
 
-| Name             | Affiliation                  |
-|------------------|-----------------------------|
-| Gabor Csányi      | Cambridge               |
-| Siddhartha Mishra     | ETH Zurich      |
-| Michael Mahoney     | UC Berkeley     |
-| Youngjoon Hong     | Seoul National University     |
-| Earl Lawrence      | Los Alamos National Laboratory |
+<div class="cards-container">
+
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/gabor-csanyi.jpg" alt="Gábor Csányi" class="card-photo">
+    <h3 class="card-name">Gábor Csányi</h3>
+    <p class="card-affiliation">University of Cambridge</p>
+  </div>
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/siddhartha-mishra.jpg" alt="Siddhartha Mishra" class="card-photo">
+    <h3 class="card-name">Siddhartha Mishra</h3>
+    <p class="card-affiliation">ETH Zürich</p>
+  </div
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/michael-mahoney.png" alt="Michael Mahoney" class="card-photo">
+    <h3 class="card-name">Michael Mahoney</h3>
+    <p class="card-affiliation">UC Berkeley</p>
+  </div>
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/youngjoon-hong.jpg" alt="Youngjoon Hong" class="card-photo">
+    <h3 class="card-name">Youngjoon Hong</h3>
+    <p class="card-affiliation">Seoul National University</p>
+  </div>
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/earl-lawrence.jpg" alt="Earl Lawrence" class="card-photo">
+    <h3 class="card-name">Earl Lawrence</h3>
+    <p class="card-affiliation">Los Alamos National Laboratory</p>
+  </div>>
+  
+</div>
