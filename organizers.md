@@ -22,7 +22,6 @@ title: Organizers
       <a href="https://scholar.google.com/citations?user=dr2krBsAAAAJ&hl=en" target="_blank">Google Scholar</a>
     </div>
   </div>
-
   
   <div class="card">
     <img src="{{ site.baseurl }}/assets/images/organizers/johannes-brandstetter.jpg" alt="Johannes Brandstetter" class="card-photo">
@@ -35,41 +34,86 @@ title: Organizers
     </div>
   </div>
   
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/youngsoo-choi.jpg" alt="Youngsoo Choi" class="card-photo">
+    <h3 class="card-name">Youngsoo Choi</h3>
+    <p class="card-affiliation">Lawrence Livermore National Laboratory</p>
+    <p class="card-bio">
+      Youngsoo Choi is a computational scientist in LLNL’s Center for Applied Scientific Computing (CASC). His research focuses on reduced-order modeling and data-driven surrogates to accelerate time-critical simulations, including inverse problems, design optimization, and uncertainty quantification, with recent work advocating rigorous definitions and evaluation criteria for foundation models in computational science. He has extensive experience convening cross-disciplinary communities in AI and scientific computing, including organizing and leadership roles in major symposia and related scientific programs.
+    </p>
+    <div class="card-socials">
+      <a href="https://people.llnl.gov/choi15" target="_blank">Webpage</a>
+      <a href="https://scholar.google.com/citations?user=sR5IHFQAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/eric-cyr.jpg" alt="Eric C. Cyr" class="card-photo">
+    <h3 class="card-name">Eric C. Cyr</h3>
+    <p class="card-affiliation">Sandia National Laboratories</p>
+    <p class="card-bio">
+      Eric C. Cyr is a Principal Member of the Technical Staff at Sandia National Laboratories (CSRI). His research focuses on multiphysics PDE simulation, advanced analysis techniques, scalable algorithms, and scientific machine learning. He has contributed to community coordination and scientific meetings in computational mathematics, including involvement with workshops related to machine learning for fusion and PDE software ecosystems.
+    </p>
+    <div class="card-socials">
+      <a href="https://www.sandia.gov/ccr/staff/eric-christopher-cyr/" target="_blank">Webpage</a>
+      <a href="https://scholar.google.com/citations?user=ndPqO6kAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/karthik-duraisamy.jpg" alt="Karthik Duraisamy" class="card-photo">
+    <h3 class="card-name">Karthik Duraisamy</h3>
+    <p class="card-affiliation">University of Michigan</p>
+    <p class="card-bio">
+      Karthik Duraisamy is the Arthur B. Modine Professor of Engineering at the University of Michigan and directs the Michigan Institute for Computational Discovery and Engineering (MICDE). His research spans computational science and AI, including data-driven and reduced-order modeling, statistical inference, numerical methods, and AI-augmented science. He leads the University of Michigan–Los Alamos National Laboratory superpartnership and is founder/chief scientist of Geminus.AI.
+    </p>
+    <div class="card-socials">
+      <a href="https://caslab.engin.umich.edu/" target="_blank">Webpage</a>
+      <a href="https://scholar.google.com/citations?user=8F2oaQwAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+
+ <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/shirley-ho.jpg" alt="Shirley Ho" class="card-photo">
+    <h3 class="card-name">Shirley Ho</h3>
+    <p class="card-affiliation">Flatiron Institute</p>
+    <p class="card-bio">
+      Shirley Ho is a senior research scientist at the Flatiron Institute and an astrophysicist and machine learning researcher. Her recent work emphasizes building foundation models for science and developing interpretable machine learning methods, including leading efforts associated with the Polymathic AI initiative for multidisciplinary scientific foundation models.
+    </p>
+    <div class="card-socials">
+      <a href="https://www.shirleyho.space/" target="_blank">Webpage</a>
+      <a href="https://scholar.google.com/citations?user=fhOi--4AAAAJ&hl=en" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/hyunseok-oh.jpg" alt="Hyunseok Oh" class="card-photo">
+    <h3 class="card-name">Hyunseok Oh</h3>
+    <p class="card-affiliation">Gwangju Institute of Science and Technology (GIST)</p>
+    <p class="card-bio">
+      Hyunseok Oh is an Associate Professor at GIST. His research spans industrial AI topics including prognostics and health management (PHM) and related data-driven methods for engineering systems, with work connected to digital-twin-style modeling and fault diagnosis applications.
+    </p>
+    <div class="card-socials">
+      <a href="https://sddo.gist.ac.kr/index.php?hCode=BOARD&bo_idx=8" target="_blank">Webpage</a>
+      <a href="https://scholar.google.com/citations?user=Xv_wuXMAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/diane-oyen.png" alt="Diane Oyen" class="card-photo">
+    <h3 class="card-name">Diane Oyen</h3>
+    <p class="card-affiliation">Los Alamos National Laboratory</p>
+    <p class="card-bio">
+      Diane Oyen is a Scientist and AI Team Leader at Los Alamos National Laboratory. She develops machine learning methods for scientific analysis with an emphasis on uncertainty quantification, transfer learning, and robust machine learning. She has prior experience organizing community workshops, including serving on workshop organizing committees in applied data science/ML venues.
+    </p>
+    <div class="card-socials">
+      <a href="https://dianeoyen.github.io/" target="_blank">Webpage</a>
+      <a href="https://scholar.google.com/citations?user=3zO8KmkAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+  
 </div>
 
-
-<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-  <div class="organizer-card" style="flex: 1 1 300px; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/organizers/youngsoo-choi.jpg" alt="Youngsoo Choi" style="width:150px; border-radius:50%;">
-    <h3>Youngsoo Choi</h3>
-    <p>Lawrence Livermore National Laboratory</p>
-  </div>
-  <div class="organizer-card" style="flex: 1 1 300px; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/organizers/eric-cyr.jpg" alt="Eric C. Cyr" style="width:150px; border-radius:50%;">
-    <h3>Eric C. Cyr</h3>
-    <p>Sandia National Laboratories</p>
-  </div>
-  <div class="organizer-card" style="flex: 1 1 300px; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/organizers/karthik-duraisamy.jpg" alt="Karthik Duraisamy" style="width:150px; border-radius:50%;">
-    <h3>Karthik Duraisamy</h3>
-    <p>University of Michigan</p>
-  </div>
-  <div class="organizer-card" style="flex: 1 1 300px; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/organizers/shirley-ho.jpg" alt="Shirley Ho" style="width:150px; border-radius:50%;">
-    <h3>Shirley Ho</h3>
-    <p>Flatiron Institute</p>
-  </div>
-  <div class="organizer-card" style="flex: 1 1 300px; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/organizers/hyunseok-oh.jpg" alt="Hyunseok Oh" style="width:150px; border-radius:50%;">
-    <h3>Hyunseok Oh</h3>
-    <p>Gwangju Institute of Science and Technology</p>
-  </div>
-  <div class="organizer-card" style="flex: 1 1 300px; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/organizers/diane-oyen.png" alt="Diane Oyen" style="width:150px; border-radius:50%;">
-    <h3>Diane Oyen</h3>
-    <p>Los Alamos National Laboratory</p>
-  </div>
-</div>
 
 ---
 
