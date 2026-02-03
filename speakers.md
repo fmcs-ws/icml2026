@@ -5,7 +5,7 @@ title: Speakers
 
 # Workshop Speakers
 
-**FMCS @ ICML 2026 · Seoul, Korea**
+**FM-Sci @ ICML 2026 · Seoul, Korea**
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
   <div style="flex: 1 1 300px; text-align: center;">
