@@ -41,3 +41,10 @@ This workshop brings together researchers from machine learning, numerical analy
 - Shirley Ho (Flatiron Institute)
 - Hyunseok Oh (Gwangju Institute of Science and Technology)
 - Diane Oyen (Los Alamos National Laboratory)
+
+## Steering Committee
+- Gábor Csányi (University of Cambridge)
+- Siddhartha Mishra (ETH Zürich)
+- Michael Mahoney (UC Berkeley)
+- Youngjoon Hong (Seoul National University)
+- Earl Lawrence (Los Alamos National Laboratory)
