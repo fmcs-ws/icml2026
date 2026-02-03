@@ -3,3 +3,4 @@ author: © 2026 FMCS Organizers. All rights reserved.
 description: Foundation Models in Computational Science Workshop @ ICML2026
 theme: minima
 markdown: kramdown
+baseurl: "/icml2026"
