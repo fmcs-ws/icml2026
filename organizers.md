@@ -5,7 +5,7 @@ title: Organizers
 
 # Workshop Organizers
 
-**FMCS @ ICML 2026 · Seoul, Korea**
+**FM-Sci @ ICML 2026 · Seoul, Korea**
 
 <br/>
 
