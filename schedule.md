@@ -5,7 +5,7 @@ title: Schedule
 
 # Workshop Schedule
 
-**FMCS @ ICML 2026 · Seoul, Korea**
+**FM-Sci @ ICML 2026 · Seoul, Korea**
 
 ---
 
