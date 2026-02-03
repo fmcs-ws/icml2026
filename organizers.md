@@ -114,7 +114,7 @@ title: Organizers
   
 </div>
 
-</br>
+<br/>
 
 ## Steering Committee
 
@@ -129,7 +129,7 @@ title: Organizers
     <img src="{{ site.baseurl }}/assets/images/organizers/siddhartha-mishra.jpg" alt="Siddhartha Mishra" class="card-photo">
     <h3 class="card-name">Siddhartha Mishra</h3>
     <p class="card-affiliation">ETH Zürich</p>
-  </div
+  </div>
   <div class="card">
     <img src="{{ site.baseurl }}/assets/images/organizers/michael-mahoney.png" alt="Michael Mahoney" class="card-photo">
     <h3 class="card-name">Michael Mahoney</h3>
@@ -144,6 +144,6 @@ title: Organizers
     <img src="{{ site.baseurl }}/assets/images/organizers/earl-lawrence.jpg" alt="Earl Lawrence" class="card-photo">
     <h3 class="card-name">Earl Lawrence</h3>
     <p class="card-affiliation">Los Alamos National Laboratory</p>
-  </div>>
+  </div>
   
 </div>
