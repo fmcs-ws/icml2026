@@ -10,9 +10,22 @@ title: Home
 **ICML 2026 · Seoul, Korea**
 
 ## Overview
-Foundation models have reshaped machine learning by enabling reusable, transferable representations across tasks. In computational science, however, the term “foundation model” is increasingly used inconsistently, despite the fact that scientific workloads impose distinct constraints: governing PDEs and conservation laws, heterogeneous discretizations and geometries, and stringent requirements for stability, interpretability, and extrapolation under regime shift. Building on recent calls for clarity and rigor (e.g., Choi et al., 2025), this workshop convenes ML researchers, numerical analysts, and computational scientists to formalize definitions and desiderata, compare emerging approaches (e.g., pretrained neural operators, mesh-agnostic surrogates, solver-integrated frameworks), and propose community evaluation standards for reusable foundation models for computational science.
+Large-scale foundation models have transformed machine learning in domains such as natural language processing and computer vision by enabling reusable, scalable, and transferable representations across tasks. However, directly translating this paradigm to computational science presents fundamentally different challenges: scientific problems are governed by physical laws (PDEs, conservation principles, structured discretizations), involve heterogeneous data and complex geometries, and demand reliability, interpretability, and extrapolative generalization beyond typical ML benchmarks.
 
-[1] Choi, Youngsoo, Siu Wun Cheung, Youngkyu Kim, Ping-Hsuan Tsai, Alejandro N. Diaz, Ivan Zanardi, Seung Whan Chung et al. "Defining Foundation Models for Computational Science: A Call for Clarity and Rigor." arXiv preprint arXiv:2505.22904 (2025).
+This workshop brings together researchers from machine learning, numerical analysis, and computational science to critically examine, formalize, and advance the concept of foundation models for computational science. Our goals are to clarify definitions and desiderata, compare emerging methodologies, identify open challenges, and foster community standards for building reusable, transferable, and scientifically grounded surrogate and solver models.
+
+<span style="color:gray">Reference: Choi et al. (2025), <i>Defining Foundation Models for Computational Science: A Call for Clarity and Rigor</i>.</span>
+
+## Topics of Interest
+- Definition and desiderata of foundation models in computational science
+- Pretrained neural operators, mesh-agnostic surrogates, multi-physics learning
+- Transferability across geometries, initial/boundary conditions, and PDE families
+- Integration of physics-based solvers with learned models (e.g., DD-FEM frameworks)
+- Uncertainty quantification, robustness, and scientific reliability
+- Benchmarking, standard datasets, and reproducibility
+- Scaling, HPC acceleration, and national laboratory use cases
+- Novel methods leveraging unique properties of scientific foundation models
+- Role of agentic models in enabling scientific foundation models
 
 ## Important Dates
 - Paper submission: TBA
