@@ -48,7 +48,7 @@ title: Organizers
     <p>Gwangju Institute of Science and Technology</p>
   </div>
   <div class="organizer-card" style="flex: 1 1 300px; text-align: center;">
-    <img src="/assets/images/organizers/diane-oyen.jpg" alt="Diane Oyen" style="width:150px; border-radius:50%;">
+    <img src="/assets/images/organizers/diane-oyen.png" alt="Diane Oyen" style="width:150px; border-radius:50%;">
     <h3>Diane Oyen</h3>
     <p>Los Alamos National Laboratory</p>
   </div>
