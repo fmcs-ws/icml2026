@@ -9,14 +9,31 @@ title: Sponsors
 
 <br/>
 
-<img src="{{ site.baseurl }}/assets/images/sponsors/NERSC.png" style="height:200">
-National Energy Research Scientific Computing Center (NERSC)
 
-[https://www.nersc.gov/](https://www.nersc.gov/)
+<div class="sponsors-container">
 
-<br/>
+  <div class="sponsor-card">
+    <a href="https://www.nersc.gov/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/images/sponsors/NERSC.png"
+           alt="NERSC logo"
+           class="sponsor-logo">
+    </a>
+    <h3 class="sponsor-name">National Energy Research Scientific Computing Center</h3>
+    <a href="https://www.nersc.gov/" target="_blank" class="sponsor-link">
+      https://www.nersc.gov/
+    </a>
+  </div>
 
-<img src="{{ site.baseurl }}/assets/images/sponsors/emmi.png" style="height:200">
-Emmi AI
+  <div class="sponsor-card">
+    <a href="https://www.emmi.ai/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/images/sponsors/emmi.png"
+           alt="Emmi AI logo"
+           class="sponsor-logo">
+    </a>
+    <h3 class="sponsor-name">Emmi AI</h3>
+    <a href="https://www.emmi.ai/" target="_blank" class="sponsor-link">
+      https://www.emmi.ai/
+    </a>
+  </div>
 
-[https://www.emmi.ai/](https://www.emmi.ai/)
+</div>
