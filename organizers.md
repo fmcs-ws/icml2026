@@ -145,5 +145,9 @@ title: Organizers
     <h3 class="card-name">Earl Lawrence</h3>
     <p class="card-affiliation">Los Alamos National Laboratory</p>
   </div>
-  
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/wahid-bhimji.jpg" alt="Wahid Bhimji" class="card-photo">
+    <h3 class="card-name">Wahid Bhimji</h3>
+    <p class="card-affiliation">Lawrence Berkeley National Laboratory</p>
+  </div>
 </div>
