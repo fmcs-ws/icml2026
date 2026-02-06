@@ -48,3 +48,4 @@ This workshop brings together researchers from machine learning, numerical analy
 - Michael Mahoney (UC Berkeley)
 - Youngjoon Hong (Seoul National University)
 - Earl Lawrence (Los Alamos National Laboratory)
+- Wahid Bhimji (Lawrence Berkeley National Laboratory)
