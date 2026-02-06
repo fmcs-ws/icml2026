@@ -75,3 +75,49 @@
     flex: 1 1 100%;
   }
 }
+
+.sponsors-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2.5rem;
+  margin-top: 3rem;
+  align-items: center;
+}
+
+.sponsor-card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sponsor-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.15);
+}
+
+.sponsor-logo {
+  max-height: 160px;
+  max-width: 100%;
+  object-fit: contain;
+  margin-bottom: 1.2rem;
+}
+
+.sponsor-name {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.sponsor-link {
+  font-size: 0.9rem;
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.sponsor-link:hover {
+  text-decoration: underline;
+}
+
