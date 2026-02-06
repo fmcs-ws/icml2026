@@ -14,6 +14,6 @@ National Energy Research Scientific Computing Center (NERSC)
 [https://www.nersc.gov/](https://www.nersc.gov/)
 
 
-![emmi]({{ site.baseurl }}/assets/images/sponsors/emmi.svg)
+![emmi]({{ site.baseurl }}/assets/images/sponsors/emmi.png)
 Emmi AI
 [https://www.emmi.ai/](https://www.emmi.ai/)
