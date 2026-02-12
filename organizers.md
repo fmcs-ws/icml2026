@@ -121,19 +121,14 @@ title: Organizers
 <div class="cards-container">
 
   <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/wahid-bhimji.jpg" alt="Wahid Bhimji" class="card-photo">
+    <h3 class="card-name">Wahid Bhimji</h3>
+    <p class="card-affiliation">Lawrence Berkeley National Laboratory</p>
+  </div>
+  <div class="card">
     <img src="{{ site.baseurl }}/assets/images/organizers/gabor-csanyi.jpg" alt="Gábor Csányi" class="card-photo">
     <h3 class="card-name">Gábor Csányi</h3>
     <p class="card-affiliation">University of Cambridge</p>
-  </div>
-  <div class="card">
-    <img src="{{ site.baseurl }}/assets/images/organizers/siddhartha-mishra.jpg" alt="Siddhartha Mishra" class="card-photo">
-    <h3 class="card-name">Siddhartha Mishra</h3>
-    <p class="card-affiliation">ETH Zürich</p>
-  </div>
-  <div class="card">
-    <img src="{{ site.baseurl }}/assets/images/organizers/michael-mahoney.png" alt="Michael Mahoney" class="card-photo">
-    <h3 class="card-name">Michael Mahoney</h3>
-    <p class="card-affiliation">UC Berkeley</p>
   </div>
   <div class="card">
     <img src="{{ site.baseurl }}/assets/images/organizers/youngjoon-hong.jpg" alt="Youngjoon Hong" class="card-photo">
@@ -146,9 +141,14 @@ title: Organizers
     <p class="card-affiliation">Los Alamos National Laboratory</p>
   </div>
   <div class="card">
-    <img src="{{ site.baseurl }}/assets/images/organizers/wahid-bhimji.jpg" alt="Wahid Bhimji" class="card-photo">
-    <h3 class="card-name">Wahid Bhimji</h3>
-    <p class="card-affiliation">Lawrence Berkeley National Laboratory</p>
+    <img src="{{ site.baseurl }}/assets/images/organizers/michael-mahoney.png" alt="Michael Mahoney" class="card-photo">
+    <h3 class="card-name">Michael Mahoney</h3>
+    <p class="card-affiliation">UC Berkeley</p>
+  </div>
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/siddhartha-mishra.jpg" alt="Siddhartha Mishra" class="card-photo">
+    <h3 class="card-name">Siddhartha Mishra</h3>
+    <p class="card-affiliation">ETH Zürich</p>
   </div>
   <div class="card">
     <img src="{{ site.baseurl }}/assets/images/organizers/hs-udaykumar.jpg" alt="H.S. Udaykumar" class="card-photo">
