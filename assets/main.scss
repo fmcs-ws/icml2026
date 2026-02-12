@@ -81,7 +81,7 @@
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 2.5rem;
   margin-top: 3rem;
-  align-items: center;
+  align-items: stretch;
 }
 
 .sponsor-card {
