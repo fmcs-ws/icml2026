@@ -36,4 +36,27 @@ title: Sponsors
     </a>
   </div>
 
+  <div class="sponsor-card">
+    <a href="https://rescale.com/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/images/sponsors/rescale_logo.png"
+           alt="rescale logo"
+           class="sponsor-logo">
+    </a>
+    <h3 class="sponsor-name">rescale</h3>
+    <a href="https://rescale.com/" target="_blank" class="sponsor-link">
+      https://rescale.com/
+    </a>
+  </div>
+  
+  <div class="sponsor-card">
+    <a href="https://dmref.org/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/images/sponsors/nsf-dmref.webp"
+           alt="nsf dmref logo"
+           class="sponsor-logo">
+    </a>
+    <h3 class="sponsor-name">rescale</h3>
+    <a href="https://dmref.org/" target="_blank" class="sponsor-link">
+      https://dmref.org/
+    </a>
+  </div>
 </div>
