@@ -85,7 +85,7 @@
 }
 
 .sponsor-card {
-  min-height: 360px;
+  min-height: 220px;
   background: #fff;
   border-radius: 14px;
   padding: 2rem;
@@ -101,6 +101,7 @@
 
 .sponsor-logo {
   max-height: 160px;
+  min-height: 120px;
   max-width: 100%;
   object-fit: contain;
   margin-bottom: 1.2rem;
