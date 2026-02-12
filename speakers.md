@@ -13,7 +13,7 @@ title: Speakers
 <div class="cards-container">
 
   <div class="card">
-    <img src="{{ site.baseurl }}/assets/images/speakers/neil-ashton.jpg"
+    <img src="{{ site.baseurl }}/assets/images/speakers/neil-ashton.jfif"
          alt="Neil Ashton"
          class="card-photo">
     <h3 class="card-name">Neil Ashton</h3>
