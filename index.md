@@ -51,10 +51,10 @@ This workshop brings together researchers from machine learning, numerical analy
 - Diane Oyen (Los Alamos National Laboratory)
 
 ## Steering Committee
+- Wahid Bhimji (Lawrence Berkeley National Laboratory)
 - Gábor Csányi (University of Cambridge)
-- Siddhartha Mishra (ETH Zürich)
-- Michael Mahoney (UC Berkeley)
 - Youngjoon Hong (Seoul National University)
 - Earl Lawrence (Los Alamos National Laboratory)
-- Wahid Bhimji (Lawrence Berkeley National Laboratory)
+- Michael Mahoney (UC Berkeley)
+- Siddhartha Mishra (ETH Zürich)
 - H.S. Udaykumar (University of Iowa)
