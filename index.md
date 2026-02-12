@@ -32,6 +32,14 @@ This workshop brings together researchers from machine learning, numerical analy
 - Notification: TBA
 - Workshop date: TBA
 
+## Invited Speakers
+- Neil Ashton (NVIDIA) — Industrial perspectives on scaling laws for CFD foundation models: the data generation challenge
+- Youngsoo Choi (LLNL) — From FEM to foundation models: DD-FEM for modular, reusable simulation learning
+- Shirley Ho (Flatiron Institute) — Polymathic AI: Building the foundations towards a generalist AI
+- Petros Koumoutsakos (Harvard) — Generative learning of effective dynamics of complex systems
+- Earl Lawrence (LANL) — Test-time-compute and shape-agnostic modeling for PDE foundation models
+- Michael Mahoney (UC Berkeley) — Can we hope that scientific foundation models learn the bitter lesson and achieve neural scaling?
+
 ## Organizers
 - Stephen Baek (University of Virginia)
 - Johannes Brandstetter (Johannes Kepler University)
@@ -49,3 +57,4 @@ This workshop brings together researchers from machine learning, numerical analy
 - Youngjoon Hong (Seoul National University)
 - Earl Lawrence (Los Alamos National Laboratory)
 - Wahid Bhimji (Lawrence Berkeley National Laboratory)
+- H.S. Udaykumar (University of Iowa)
