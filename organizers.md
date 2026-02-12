@@ -150,4 +150,9 @@ title: Organizers
     <h3 class="card-name">Wahid Bhimji</h3>
     <p class="card-affiliation">Lawrence Berkeley National Laboratory</p>
   </div>
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/images/organizers/hs-udaykumar.jpg" alt="H.S. Udaykumar" class="card-photo">
+    <h3 class="card-name">H.S. Udaykumar</h3>
+    <p class="card-affiliation">University of Iowa</p>
+  </div>
 </div>
