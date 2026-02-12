@@ -54,7 +54,7 @@ title: Sponsors
            alt="nsf dmref logo"
            class="sponsor-logo">
     </a>
-    <h3 class="sponsor-name">rescale</h3>
+    <h3 class="sponsor-name">NSF DMREF Program</h3>
     <a href="https://dmref.org/" target="_blank" class="sponsor-link">
       https://dmref.org/
     </a>
