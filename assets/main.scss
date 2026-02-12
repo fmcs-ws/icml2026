@@ -81,10 +81,14 @@
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 2.5rem;
   margin-top: 3rem;
-  align-items: stretch;
+  align-items: center;
 }
 
 .sponsor-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
   background: #fff;
   border-radius: 14px;
   padding: 2rem;
