@@ -68,7 +68,7 @@ title: Speakers
   </div>
 
   <div class="card">
-    <img src="{{ site.baseurl }}/assets/images/organizers/michael-mahoney.jpg"
+    <img src="{{ site.baseurl }}/assets/images/organizers/michael-mahoney.png"
          alt="Michael Mahoney"
          class="card-photo">
     <h3 class="card-name">Michael Mahoney</h3>
